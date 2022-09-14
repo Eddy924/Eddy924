@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kayden235
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning how to become a software engineer.
-- 💞️ I’m looking to collaborate on anything you will let me collab on.
-- 📫 How to reach me 
+Hello I am Ed(Kayden235) I am currently aspiring to become a software engineer. I am currently working through the online resource curriculum "App Academy Open". I plan on going to college to get a Computer Science degree and look forward to applying for jobs in the field.
 
 <!---
 Kayden235/Kayden235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
